@@ -15,7 +15,7 @@ required_in_issues:
 - "## Steps to Reproduce (for bugs)"
 - "## Your Environment"
 
-messages:
+custom_messages:
   - name: template
     value: |
            Your issue has been marked as *invalid* because you've deleted or removed questions from our issue template.
