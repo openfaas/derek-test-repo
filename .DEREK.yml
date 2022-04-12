@@ -1,0 +1,18 @@
+curators:
+ - LucasRoesler
+
+features:
+ - dco_check
+ - comments
+ - pr_description_required
+ - release_notes
+
+required_in_issues:
+- "## Expected Behaviour"
+- "## Current Behaviour"
+- "## Possible Solution"
+- "## Are you a GitHub Sponsor (Yes/No?)"
+- "## Steps to Reproduce (for bugs)"
+- "## Your Environment"
+
+contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
