@@ -15,4 +15,13 @@ required_in_issues:
 - "## Steps to Reproduce (for bugs)"
 - "## Your Environment"
 
+messages:
+  - name: template
+    value: |
+           Your issue has been marked as *invalid* because you've deleted or removed questions from our issue template.
+           
+           If you wish to participate in this community, then you need to follow guidelines set by the maintainers.
+           
+           Edit your issue and use the whole issue template, so that we can help you.
+
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
