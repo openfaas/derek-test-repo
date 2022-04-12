@@ -1,12 +1,12 @@
-<!-- How is this affecting you? What task are you trying to accomplish? -->
-## Why do you need this?
-
-
 <!-- Due dilligence -->
 ## My actions before raising this issue
 - [ ] Followed the [troubleshooting guide](https://docs.openfaas.com/deployment/troubleshooting/)
 - [ ] Read/searched [the docs](https://docs.openfaas.com/)
 - [ ] Searched [past issues](/issues)
+
+<!-- How is this affecting you? What task are you trying to accomplish? -->
+## Why do you need this?
+
 
 <!--- Provide a general summary of the issue in the Title above -->
 ## Expected Behaviour
@@ -34,6 +34,7 @@ Check at: https://github.com/sponsors/openfaas
 ## Which Solution Do You Recommend?
 <!--- Pick your preferred solution, if you were to implement and maintain this change -->
 
+
 ## Steps to Reproduce (for bugs)
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
@@ -59,4 +60,3 @@ Check at: https://github.com/sponsors/openfaas
 * Code example or link to GitHub repo or gist to reproduce problem:
 
 * Other diagnostic information / logs from [troubleshooting guide](https://docs.openfaas.com/deployment/troubleshooting)
-
